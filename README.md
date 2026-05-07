@@ -4,11 +4,11 @@
 
 | NO| CHALLENGE                          | URL                                |
 |---|-------------------                 |------------------------------      |
-|   |Threat VS Vulnerability             |   |
-|   |Vulnerable Machine:PwnDrive Academy |  |
-|   |METADATA                            |   |
-|   |Active FOOTPRINTING                 |                                    |
-|   |Lian Yu TryHackMe                   | |
-|   |Scanning                            |                                        |
-|   |METADATA                            |                                    |
-|   |Active FOOTPRINTING                 |                                    |
+| 1 | Challenge 1 - Fast Nmap Scan       |   |
+| 2 | Challenge 5 -                      |  |
+| 3 | Challenge 9 -                      |   |
+| 4 | Challenge 10 -                     |    |
+| 5 |Lian Yu TryHackMe                   | |
+| 6 |Scanning                            |                                        |
+| 7 |METADATA                            |                                    |
+| 8 |Active FOOTPRINTING                 |                                    |
