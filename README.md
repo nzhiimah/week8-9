@@ -5,7 +5,7 @@
 | NO| CHALLENGE                      | URL                                |
 |---|-------------------             |------------------------------      |
 | 1 | Challenge 1 - Fast Nmap Scan   |https://github.com/nzhiimah/challenge2  |
-| 2 | Challenge 5 -                      |  |
+| 2 | Challenge 5 -                  |https://github.com/nzhiimah/challenge5  |
 | 3 | Challenge 9 -                      |   |
 | 4 | Challenge 10 -                     |    |
 | 5 |Lian Yu TryHackMe                   | |
