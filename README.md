@@ -8,9 +8,9 @@
 | 2 | Challenge 5 - TTL OS Fingerprinting  |https://github.com/nzhiimah/challenge5  |
 | 3 | Challenge 9 - FTP Banner             |   |
 | 4 | Challenge 10 - Anonymous FTP Login   |    |
-| 5 | Challenge 10 -                       | |
-| 6 | Challenge 10 -                       |                                        |
-| 7 | Challenge 10 -                       |                                    |
-| 8 | Challenge 10 -                       |                                    |
-| 9 | Challenge 10 -                       |                                    |
-| 10 | Challenge 10 -                      |                                    |
+| 5 | Challenge 11 - SMB NSE Enumeration   | |
+| 6 | Challenge 12 - Enum4linux            |                                        |
+| 7 | Challenge 13 - NFS Exports           |                                    |
+| 8 | Challenge 16 - Version Detection     |                                    |
+| 9 | Challenge 17 - OS Detection          |                                    |
+| 10 | Challenge 19 - RPC Info             |                                    |
