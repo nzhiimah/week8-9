@@ -2,9 +2,9 @@
 
 ## List of Challenges
 
-| NO| CHALLENGE                          | URL                                |
-|---|-------------------                 |------------------------------      |
-| 1 | Challenge 1 - Fast Nmap Scan       |   |
+| NO| CHALLENGE                      | URL                                |
+|---|-------------------             |------------------------------      |
+| 1 | Challenge 1 - Fast Nmap Scan   |https://github.com/nzhiimah/challenge2  |
 | 2 | Challenge 5 -                      |  |
 | 3 | Challenge 9 -                      |   |
 | 4 | Challenge 10 -                     |    |
