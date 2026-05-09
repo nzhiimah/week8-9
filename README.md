@@ -7,7 +7,7 @@
 | 1 | Challenge 1 - Fast Nmap Scan         |https://github.com/nzhiimah/challenge2  |
 | 2 | Challenge 5 - TTL OS Fingerprinting  |https://github.com/nzhiimah/challenge5  |
 | 3 | Challenge 9 - FTP Banner             |   |
-| 4 | Challenge 10 - Anonymous FTP Login   |    |
+| 4 | Challenge 10 - Anonymous FTP Login   |https://github.com/nzhiimah/challenge10 |
 | 5 | Challenge 11 - SMB NSE Enumeration   | |
 | 6 | Challenge 12 - Enum4linux            |                                        |
 | 7 | Challenge 13 - NFS Exports           |                                    |
